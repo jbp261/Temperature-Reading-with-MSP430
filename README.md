@@ -2,6 +2,8 @@
 
 ### Author
 - Jay Patel
+- Nahan Bui
+- Nick Vergas
 
 ### Abstract
 The project utilizes I2C protocol on MSP430 MCU to communicate with a temperature sensor and display the temperature on the computer screen in Celsius and Fahrenheit.
